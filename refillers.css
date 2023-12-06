@@ -1,0 +1,225 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    height: 100%;
+
+}
+
+.big_of_all {
+    background-image: linear-gradient(23deg, rgba(121, 132, 163, 0.74), rgba(30, 32, 190, 0.815));
+    height: 100%;
+    
+
+}
+
+.badger_abs {
+    border: 2px solid rgb(5, 5, 78);
+    height: 200px;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 70px;
+    width: 100px;
+    margin-left: 30px;
+    
+}
+
+.badger_text {
+    border-top-left-radius: 60px;
+    border-top-right-radius: 70px;
+    border: 5px solid white;
+    height: 100%;
+    color: white;
+    background-color: navy;
+    display: flex;
+    justify-items: center;
+align-items: center;
+    
+    text-align: center;
+    
+}
+
+.small_badger {
+    height: 35px;
+    font-size: 13px;
+    text-align: center;
+    margin-top: 30px;
+    position: absolute;
+    top: 32%;
+    width: 150px;
+    transform: rotate(-13deg);
+    background-color: red;
+    padding: 3px;
+    left: 1%;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+    color: white;
+}
+
+.small_bolder {
+    color: white;
+    font-weight: bold;
+}
+.cir_central {
+    border: 10px solid cyan;
+    border-radius: 225px;
+    height: 450px;
+    width: 450px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: column;
+    
+}
+
+.droplet {
+    border: 3px solid white;
+    height: 150px;
+    width: 70px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    background-color: skyblue; 
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+    border-bottom-right-radius: 70px;
+    border-bottom-left-radius: 70px;
+
+
+}
+
+.abs_prem {
+    background-color: navy;
+    width: 200px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    position: absolute;
+    left: 39%;
+    top: 84%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    transform: rotate(-6deg);
+}
+
+.central_title {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid;
+    width: 80%;
+    height: 150px;
+    position: absolute;
+    top: 90%;
+    transform: rotate(-3deg);
+    background-color: rgba(0, 255, 255, 0.459);
+    border-bottom-right-radius: 70px;
+    border-top-left-radius: 70px;
+
+}
+
+.tripple_n {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 95%;
+    background-color: rgba(16, 148, 201, 0.897);
+    height: 90%;
+    border-bottom-right-radius: 70px;
+    border-top-left-radius: 70px;
+    font-size: 5rem;
+    color: white;
+
+
+}
+
+.drink_wat_abs {
+    background-color: navy;
+    width: 200px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    position: absolute;
+    left: 2%;
+    top: 135%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    transform: rotate(-3deg);
+}
+
+.refillers {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2.5rem;
+    color: white;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(6, 6, 61);
+}
+
+.biker_card {
+    display: flex;
+    height: 150px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card_dialer {
+    border: 3px solid white;
+    height: 90px;
+    width: 60%;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.inner_card_text {
+    border-radius: 30px;
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+    background-color: navy;
+    height: 100%;
+}
+
+.free_red {
+    color: red;
+}
+
+.biker {
+    border: 4px solid aqua;
+    height: 50px;
+    background-color: navy;
+    color: white;
+    
+}
+
+.foo_red {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    background-color: red;
+}
+
+.tel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 5rem;
+    color: white;
+    height: 100%;
+
+}
